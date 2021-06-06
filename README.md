@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udbhavpushkar
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning backend development using node.
+- 🌱 I’m full stack developer.
 - 📫 How to reach me -> udbhavpushkar@gmail.com
 
 <!---
